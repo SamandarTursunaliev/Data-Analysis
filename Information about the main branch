@@ -1,0 +1,5 @@
+Main brand will be the base for all other branches. It will not contain any useful informatino except for Readme file itself. 
+
+The information will be in other branches.
+
+The main branch will serve as a parent branch for all other branches and other branches will contain all the useful information and examples.
